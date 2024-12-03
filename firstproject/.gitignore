@@ -1,7 +1,8 @@
 *.log
 *.swp
-../*
+/.android/
+*.DS_Store
 /source/
 /ntuser.*
-/LICENSE
+
 
