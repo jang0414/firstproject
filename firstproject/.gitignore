@@ -1,7 +1,20 @@
 *.log
 *.swp
 /.android/
-*.DS_Store
+/3D Object/
+/AppData/
+/Contacts/
+/Documents/
+/Downloads/
+/Favorites/
+/IntelGraphicsProfiles/
+/Links/
+/Music/
+/OneDrive/
+/Pictures/
+/Saved Games/
+/Searches/
+/Videos/
 /source/
 /ntuser.*
 
